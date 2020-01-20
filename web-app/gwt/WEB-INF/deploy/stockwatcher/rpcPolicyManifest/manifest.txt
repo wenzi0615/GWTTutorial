@@ -1,0 +1,3 @@
+# Module stockwatcher
+# RPC service class, partial path of RPC policy file
+grails.plugins.gwt.client.GwtActionService, 4BD2B47C209502DA139AEF219F0D86D1.gwt.rpc

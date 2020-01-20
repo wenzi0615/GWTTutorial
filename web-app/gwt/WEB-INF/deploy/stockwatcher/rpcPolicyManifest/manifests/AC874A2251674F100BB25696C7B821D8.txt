@@ -1,0 +1,2 @@
+serviceClass: grails.plugins.gwt.client.GwtActionService
+path: 4BD2B47C209502DA139AEF219F0D86D1.gwt.rpc
